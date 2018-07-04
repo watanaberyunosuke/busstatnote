@@ -106,7 +106,7 @@ There are also three approach of probability:
 
 1. *Priori* Classical Probability: Objective probability based on prior knowledge and experience: e.g. toss a coin, head 50% tail 50%.
 2. Empirical Classical Probability: Objective probability, obtained from the relative frequency of occurrence of an event. e.g. probability of Toyota pass a crossing.
-3. Subjective Probability: Probability that reflect an individual's belief that an event occurs. e.g. 'I think England have 70% in beating NZ tonight.'
+3. Subjective Probability: Probability that reflect an individual's belief that an event occurs.e.g.'I think England have 70% in beating NZ tonight.'
 
 The **probability of occurrence** can be defined as:
 
