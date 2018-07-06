@@ -3,4 +3,4 @@ Business Statistics Notes (Currently Week 1-6) For RMIT, Monash and book Berenso
 ## What to Do
 Download the html file, open in browser, print to PDF.
 
-If you have latex engine xelatex and supporting Katex and Mathtex, you can download the markdown file and use pandoc to convert it.
+If you have latex engine xelatex and supporting Katex and Mathtex, you can download the markdown file and use pandoc to convert it. If you use Visual Studio Code with Markdown Preview/ Markdown Preview Enhanced installed, you can download the MD file and view in VSCode.
