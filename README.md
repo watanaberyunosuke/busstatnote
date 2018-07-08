@@ -7,4 +7,4 @@ If you have latex engine xelatex and supporting Katex and Mathtex, you can downl
 
 ## PDF Version
 
-Recently there are people telling me that they are finding it difficult to use raw code. I have uploaded a PDF version on my AWS Bucket: https://s3-ap-southeast-2.amazonaws.com/busstatnotes/Notes_Final.pdf
+Recently there are people telling me that they are finding it difficult to use raw code. I have uploaded a PDF version on my AWS Bucket: https://s3-ap-southeast-2.amazonaws.com/busstatnotes/Notes_Final.pdf, if you still wish to change font or layout of the document, please download the code.
