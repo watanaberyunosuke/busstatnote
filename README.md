@@ -1,5 +1,7 @@
 # Business Statistics Note
+
 Business Statistics Notes for RMIT, Monash and book Berenson et al. Basic Business Statistics 4e
+
 ## What to Do
 Download the html file, open in browser, print to PDF.
 
