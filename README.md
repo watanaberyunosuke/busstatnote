@@ -26,4 +26,4 @@ The contents is protected under the law of Commonwealth of Australia, Hong Kong 
 
 The contents can be used on any occasion except for commercial use. When reproducing and spreading of this document, please include author's information.
 
-Violencer will be sued or and prosecuted.
+Offender will be sued or and prosecuted.
