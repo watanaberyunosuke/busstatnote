@@ -12,3 +12,18 @@ Recently there are people telling me that they are finding it difficult to use r
 ## Week 7-12
 
 The week 7-12 hand written script has been uploaded to the S3 bucket: https://s3-ap-southeast-2.amazonaws.com/busstatnotes/Bus+Stat+Notes+Week+7-12.pdf
+
+## Prep for Final
+
+An outline of contents and testable LOS has been updated to the corresponding address:
+https://s3-ap-southeast-2.amazonaws.com/busstatnotes/Prep+for+Final.pdf
+
+File is in PDF version, please download and use it.
+
+## Legal and Compliance Information
+
+The contents is protected under the law of Commonwealth of Australia, Hong Kong and Mainland Chinese regulations.
+
+The contents can be used on any occasion except for commercial use. When reproducing and spreading of this document, please include author's information.
+
+Violencer will be sued or and prosecuted.
